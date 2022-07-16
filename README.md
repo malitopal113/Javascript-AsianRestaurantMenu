@@ -14,9 +14,9 @@
 
 * __Real time warning notifications__
 
-* __Full screen mode__
+* __Responsive__🌺
 
-    * __Responsive__ 🌺
+ 
 
 --- 
 ## Technologies Used
