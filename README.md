@@ -14,7 +14,7 @@
 
 * __Real time warning notifications__
 
-* __Responsive__🌺
+* __Responsive__ 🌺
 
  
 
