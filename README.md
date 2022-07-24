@@ -6,7 +6,7 @@
 
 ![Live Screen](ss.png);
 
-[Go to GitHub Repo of Asian Kitchen's Menu](https://github.com/malitopal113/Javascript-AsianRestaurantMenu)
+
 ---
 
 
